@@ -20,7 +20,7 @@ This script can be ran manually or you can create a scheduled task with tools li
 
 ### 1. Download the Project
 
-1. Either download the `transmission-peer-blocker.sh` file only or clone this repo to your Linux machine with `git clone https://github.com/askar882/transmission-peer-blocker` command.
+1. Either download [transmission-peer-blocker.sh](https://github.com/askar882/transmission-peer-blocker/raw/master/transmission-peer-blocker.sh) file only or clone this repo to your Linux machine with `git clone https://github.com/askar882/transmission-peer-blocker` command.
 2. Grant execute permission to the script with `chmod +x transmission-peer-blocker.sh`.
 
 ### 2. Create a Scheduled Task (Optional)
