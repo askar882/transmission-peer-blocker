@@ -7,7 +7,7 @@
 #   Transmission Blocklist: https://github.com/transmission/transmission/blob/master/libtransmission/blocklist.cc
 
 readonly LOGGER_TAG='transmission-peer-blocker'
-readonly ID_FILTER='\-\(\(XL\|SD\|XF\|QD\|BN\|DL\|TS\|LT\|SP\)\([0-9]\+\)\|\(UW\w\{4\}\)\)-\|Xunlei\|Unknown'
+readonly ID_FILTER='\-\(\(XL\|SD\|XF\|QD\|BN\|DL\|TS\|LT\|SP\|DT\)\([0-9]\+\)\|\(UW\w\{4\}\)\)-\|Xunlei\|Unknown'
 readonly IPSET='trans'
 readonly IPSET6='trans6'
 
